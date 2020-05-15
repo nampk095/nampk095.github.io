@@ -17,18 +17,18 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
+  dribbble: minhquydesign
   email: nampk095@gmail.com
   facebook: minhquydesign
   flickr: minhquydesign
-  github: minhquydesign/minhquydesign.github.io/
+  github: minhquydesign
   instagram: minhquydesign
   linkedin: minhquydesign
   pinterest: minhquydesign
   rss: # just type anything here for a working RSS icon
-  twitter: dmq.1004
+  twitter: minhquydesign
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
+  youtube: c/minhquydesign # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
